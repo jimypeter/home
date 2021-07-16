@@ -1,13 +1,16 @@
-title: Your awesome title
+title: Welcome
 author: GitHub User
-email: your-email@domain.com
+email: ogunjinmipeter@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my blog! I am Peter Ogunjinmi, a PhD student at Intelligent Construction and Automation Center, Kyungpook National University, Daegu, South Korea.
+  I have over 10 years experience in the Civil Engineering and Construction industry. My research interests include Structural Damage Identification, Disaster Response, 
+  Computer Vision and Construction Automation. 
+  Python is my favourite programming language. I also do some mathematical computations in MATLAB.
+  Watch out for contents related to my research and academic adventures on this blog. 
+  Kindly connect with me on my social media pages. Let's learn and grow together!
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
-
+twitter_username: o_peter13 # DO NOT include the @ character, or else the build will fail!
+github_username:  jimypeter # DO NOT include the @ character, or else the build will fail!
+linkedin_username: peter-ogunjinmi-8227b0124
 show_excerpts: true # set to false to remove excerpts on the homepage
