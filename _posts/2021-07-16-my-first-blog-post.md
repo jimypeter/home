@@ -10,10 +10,9 @@ Kyungpook National University, South Korea
 PhD (in view) 
 Field Of Study: Architectural Engineering (Construction Automation)
 Expected graduation: 2024
-1 SCIE Q1 journal publication (under review)
+
 Awards/Funding: 
 National Research Foundation of Korea, NRF grant (2021)
-KNU International Graduate Scholarship (KINGS) 2021
 
  
 Kyungpook National University, South Korea
